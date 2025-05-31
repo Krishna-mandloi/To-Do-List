@@ -1,0 +1,29 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code workspace
+.vscode/
+
+# Others
+*.log
+*.pdb
+*.cache
+*.db
+*.bak
+
+# Windows image thumbs
+Thumbs.db
+
+# Recycle Bin files
+$RECYCLE.BIN/
